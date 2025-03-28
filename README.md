@@ -2,6 +2,7 @@ Gradle Retrolambda Plugin
 ========================
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/me.tatarka/gradle-retrolambda/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/me.tatarka/gradle-retrolambda)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fgradle-retrolambda.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fgradle-retrolambda?ref=badge_shield)
 
 This plugin will automatically build your java or *android* project with
 retrolambda, giving you lambda goodness on java 6 or 7. It relies on the
@@ -168,3 +169,6 @@ License
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fgradle-retrolambda.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fgradle-retrolambda?ref=badge_large)
